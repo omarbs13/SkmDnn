@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bin\CreateTicket.dll
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bin\CreateTicket.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\CreateTicket\obj\Release\CreateTicket.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\CreateTicket\obj\Release\CreateTicket.dll
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\CreateTicket\obj\Release\CreateTicket.pdb

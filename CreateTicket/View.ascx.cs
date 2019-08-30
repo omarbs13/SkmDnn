@@ -16,6 +16,7 @@ using DotNetNuke.Services.Exceptions;
 using DotNetNuke.Entities.Modules;
 using DotNetNuke.Entities.Modules.Actions;
 using DotNetNuke.Services.Localization;
+using DotNetNuke.Entities.Users;
 
 namespace tsystemsCreateTicket
 {
@@ -38,7 +39,9 @@ namespace tsystemsCreateTicket
         {
             try
             {
-
+                UserInfo _currentUser = UserController.GetCurrentUserInfo();
+                lblMail.Text = _currentUser.Email;
+                lblUser.Text = _currentUser.DisplayName;
             }
             catch (Exception exc) //Module failed to load
             {
