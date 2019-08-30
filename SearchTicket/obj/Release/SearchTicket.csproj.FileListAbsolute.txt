@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bin\SearchTicket.dll
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bin\SearchTicket.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\SearchTicket.dll
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\SearchTicket.pdb
+C:\Users\ADMIN\documents\visual studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\SearchTicket.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\TsystemsSearchTicket.App_LocalResources.Retrivex.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bin\App_LocalResources\Retrivex.resx
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bin\es-MX\SearchTicket.resources.dll
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\TsystemsSearchTicket.App_LocalResources.View.ascx.es-MX.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\es-MX\SearchTicket.resources.dll
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\SearchTicket.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\bin\en-US\SearchTicket.resources.dll
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\TsystemsSearchTicket.App_LocalResources.View.ascx.en-US.resources
+C:\Users\ADMIN\Documents\Visual Studio 2015\Projects\RetriveTicket\SearchTicket\obj\Release\en-US\SearchTicket.resources.dll
